@@ -32,7 +32,7 @@ export default class TCPolicyPage extends React.PureComponent {
   ]
 
   render() {
-    return <PolicyReader sections={sections} />
+    return <PolicyReader sections={sections} isMobile={false} policy_name={"The Policy Name / Heading"}/>
   }
 }
 ```
