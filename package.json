@@ -1,0 +1,19 @@
+{
+  "name": "react-policy-reader",
+  "version": "1.0.0",
+  "description": "A simple lightweight React policy reader.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderCollins/react-policy-reader.git"
+  },
+  "author": "Alexander W. Collins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexanderCollins/react-policy-reader/issues"
+  },
+  "homepage": "https://github.com/AlexanderCollins/react-policy-reader#readme"
+}
