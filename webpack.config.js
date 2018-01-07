@@ -10,7 +10,7 @@ module.exports = {
     rules: [
       {
         test: /\.js$/,
-        include: path.resolve(__dirname, 'src'),
+        include: path.resolve(__dirname, 'lib'),
         exclude: /(node_modules|bower_components|build)/,
         use: {
           loader: 'babel-loader',
@@ -26,4 +26,3 @@ module.exports = {
     'react': 'commonjs react' // this line is just to use the React dependency of our parent-testing-project instead of using our own React.
   }
 };
-
