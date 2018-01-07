@@ -36,8 +36,9 @@ export default class TCPolicyPage extends React.PureComponent {
 ```
 
 # Demo Images
-
+## Desktop View
 ![alt text](https://raw.githubusercontent.com/alexandercollins/react-policy-reader/master/docs/desktop_view.png)
 
+## Mobile View
 ![alt text](https://raw.githubusercontent.com/alexandercollins/react-policy-reader/master/docs/mobile_view.png)
 
