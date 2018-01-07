@@ -1,6 +1,8 @@
 # react-policy-reader
 A simple lightweight React policy reader
 
+## Only 3.32 kB
+
 # Installation
 `npm install react-policy-reader --save`
 
