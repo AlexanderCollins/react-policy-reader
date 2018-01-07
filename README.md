@@ -6,7 +6,7 @@ A simple lightweight React policy reader
 
 # Usage
 
-`
+```
 import React from 'react';
 import PolicyReader from 'react-policy-reader';
 
@@ -33,4 +33,4 @@ export default class TCPolicyPage extends React.PureComponent {
     return <PolicyReader sections={sections} />
   }
 }
-`
+```
